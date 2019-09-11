@@ -1,5 +1,5 @@
 def base_hash
-monopoly = {keys: "1"}
+monopoly = {:railroads => "1"}
 end
 
 def monopoly_with_second_tier
