@@ -1,5 +1,5 @@
 def base_hash
-hash = {:key => value}
+hash = {:key}
 end
 
 def monopoly_with_second_tier
